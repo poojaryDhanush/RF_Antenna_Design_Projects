@@ -46,7 +46,6 @@ RF-Antenna-Design-Projects
 ├── Documentation
 │   ├── L-Band & C-Band Design Procedure
 │   ├── 1x4 Microstrip Patch Array Design Procedure
-│   └── Final Report
 │
 └── README.md
 ```
@@ -109,7 +108,6 @@ The repository includes supporting documentation containing:
 - CST modeling workflow
 - Simulation setup
 - Performance analysis
-- Final project report
 
 ---
 
